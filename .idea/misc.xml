@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jungk/Documents/JungKatalin_Varosok/app/src/main/res/layout/activity_insert.xml" value="0.1" />
+        <entry key="..\:/Users/jungk/Documents/JungKatalin_Varosok/app/src/main/res/layout/activity_list.xml" value="0.19256756756756757" />
         <entry key="..\:/Users/jungk/Documents/JungKatalin_Varosok/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/jungk/Documents/JungKatalin_Varosok/app/src/main/res/layout/listActivity.xml" value="0.1" />
       </map>
     </option>
   </component>

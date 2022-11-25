@@ -5,18 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".ListActivity">
 
- <Button
-     android:layout_width="match_parent"
-     android:layout_height="wrap_content"
-     android:text="Listázás"
-     android:id="@+id/listazas"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/jason"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Új felvétele"
-        android:id="@+id/felvetel"/>
+        android:text="Vissza"
+        android:id="@+id/vissza"/>
+
 
 </LinearLayout>
